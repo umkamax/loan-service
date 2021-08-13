@@ -1,0 +1,5 @@
+rootProject.name = 'loan-service'
+
+include 'api'
+include 'app'
+include 'core'
