@@ -8,5 +8,6 @@ class LoanProfileServiceImplTest {
 
     @Test
     void calculateLoanProfile() {
+
     }
 }
